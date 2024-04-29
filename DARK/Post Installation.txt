@@ -1,0 +1,14 @@
+Dear User,
+
+Thank you for choosing DARK software suite! We're thrilled to welcome you to our community of users.
+
+At DARK, we strive to provide you with the best-in-class software solutions to meet your needs. By choosing our software, you've put your trust in us, and we're incredibly grateful for that.
+
+We want you to know that DARK is an open-source project, driven by a passionate community of developers and enthusiasts like yourself. Your support helps us continue to grow and improve our software for everyone.
+
+We hope you find our software intuitive, powerful, and enjoyable to use. If you have any feedback, suggestions, or questions, please don't hesitate to reach out to us. We're here to help!
+
+Once again, thank you for choosing DARK. We're excited to have you on board, and we hope you have a fantastic experience with our software.
+
+Best regards,
+DARK Development Team

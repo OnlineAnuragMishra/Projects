@@ -1,0 +1,39 @@
+DARK© Software Suite
+
+Welcome to the DARK© Software Suite, a dynamic collection of applications designed to enhance your digital experience.
+
+
+DARK© Software Suite stands for Dynamic Application Resource Kit. It is a collection of various accessory software designed to enhance users' daily digital experiences. From a scientific calculator (Numius) to an image viewer (Parasnap), file organizer (ZenSpace), camera (Lensnap), and browser (SkyNav), DARK© offers a comprehensive set of tools to meet diverse user needs. Whether you're a student, professional, or enthusiast, DARK© Software Suite provides essential applications to streamline your tasks and boost productivity.
+
+Installation
+
+1. Download: Download the DARK© Software Suite package from the provided link.
+2. Extract: Extract the downloaded package to a convenient location on your computer.
+3. Run Installer: Navigate to the extracted folder and run the installer executable (setup.exe or install.bat).
+4. Follow Instructions: Follow the on-screen instructions to complete the installation process. Make sure to select the desired installation location and options.
+5. Finish: Once the installation is complete, you're ready to start using DARK© Software Suite!
+
+Getting Started
+
+DARK© Software Suite includes the following applications:
+
+- Numius - Scientific Calculator: Perform mathematical calculations with precision and ease.
+- Parasnap - Image Viewer: View and organize your images with advanced features.
+- ZenSpace - File Organizer: Keep your files organized and easily accessible.
+- Lensnap - Camera: Capture moments with your built-in camera or connected device.
+- SkyNav - Browser: Browse the web securely and privately.
+
+To get started with each application, simply launch the corresponding executable file from the installation directory.
+
+Usage
+
+- Numius - Scientific Calculator: Use standard operators and functions for basic and advanced calculations.
+- Parasnap - Image Viewer: View, zoom, rotate, and organize images in various formats.
+- ZenSpace - File Organizer: Organize files and folders by category, date, or custom tags.
+- Lensnap - Camera: Capture photos and videos with your device's camera. Edit and share your media files.
+- SkyNav - Browser: Browse the web securely with privacy features and customizable settings.
+
+Support
+
+For any questions, feedback, or assistance, please contact our support team at support@darksoftware.com.
+

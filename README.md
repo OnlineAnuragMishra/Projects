@@ -29,8 +29,7 @@ The performance of the classifier is evaluated using standard machine learning m
 ## Contribution
 Contributions to this project are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 
 

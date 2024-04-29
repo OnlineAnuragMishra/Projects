@@ -13,8 +13,7 @@ This repository contains the codebase for a machine learning project titled "Cyb
 ## Getting Started
 To get started with the project, follow these steps:
 
-1. Clone the repository: https://github.com/your-username/cyberbully-tweet-classifier.git
-
+1. Clone the repository: https://github.com/OnlineAnuragMishra/Projects.git
 2. Install the required dependencies:
 
 3. Explore the notebooks in the `notebooks/` directory to understand the data preprocessing, model training, and evaluation steps.
